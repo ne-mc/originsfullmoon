@@ -1,0 +1,2 @@
+#scoreboard objectives add originsfullmoon dummy
+#tellraw @a [{ "text": "Origins: " }, { "text": "Full Moon ", "color": "#aaeeff" },{ "text": "-> ", "color": "white" }, { "text": "loaded", "color": "green" } ]

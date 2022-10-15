@@ -1,0 +1,11 @@
+[
+	{
+		"condition": "minecraft:reference",
+		"name": "originsfullmoon:time_moon_full"
+	},
+	{
+		"condition": "minecraft:time_check",
+		"value": 17000,
+		"period": 24000
+	}
+]
