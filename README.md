@@ -33,3 +33,12 @@ It's not as likely, but I may add new items or blocks if they mechanically make 
 
 ## Forge?  
 Let's see if anyone other than me even wants this thing first. If the mod stays a datapack that's packaged as a mod, yeah, probably. If I do go more into the real modding of it, then probably not. I know I'm not going to have the time or energy to support `n` mods across multiple loaders, and this is just getting me into Minecraft modding again; `n` will likely be greater than `1` soon enough.
+
+# Links
+- mods
+  - [Curse Forge - Origins: Full Moon](https://www.curseforge.com/minecraft/mc-mods/origins-full-moon) - this mod
+  - [GitHub - Origins: Full Moon](https://github.com/ne-mc/originsfullmoon) - this code
+  - [Curse Forge - Origins](https://www.curseforge.com/minecraft/mc-mods/origins) - required for you to even be here
+  - [Curse Forge - Origins Randomiser](https://www.curseforge.com/minecraft/mc-mods/origins-randomiser) - randomize your origins on death or sleep
+- references
+  - [Dig Minecraft - Game Tick](https://www.digminecraft.com/getting_started/game_tick.php) - some helpful info on Minecraft game ticks
